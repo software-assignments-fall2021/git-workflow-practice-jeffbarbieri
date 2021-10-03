@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## Eventide Physion Audio Plugin
+
+A link to a software engineering project I find particularly interesting is Eventide's *Physion* audio plugin: https://store.eventideaudio.com/products/physion
+
+This is a digital audio processing plugin by New Jersey based audio technology company Eventide. Physion is a software plugin which uses neural net technology to separate a sound's tonal quality from its transient. A sound's tonal quality is the timbre which gives it its pitch, or note. Conversely, a transient is the part of a sound providing the texture of its impact, whether that is the sound of a drum stick striking a drum head, or a guitar pick strumming a guitar string. Once these elements are separated in real-time by the plugin, the user can choose to process the two separately. This is an extremely unique and powerful tool for musicians, and the software engineering involved really interests me.
